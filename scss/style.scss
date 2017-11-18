@@ -37,13 +37,21 @@ body{
             opacity: 0.7;
         }
 
-        .fa{
-            color: $primary-color;
-            background:#fff;
-            border-radius: 5px;
-            padding: 4px;
-            font-size: $icon-size;
-        }
+        // .fa{
+        //     color: $primary-color;
+        //     background:#fff;
+        //     border-radius: 5px;
+        //     padding: 4px;
+        //     font-size: $icon-size;
+        // }
 }
 
-
+#explore-section{
+    .fa{
+        color: #fff;
+        background: #333;
+        border-radius: 5px;
+        padding: 4px;
+        font-size: $icon-size;
+    }
+}

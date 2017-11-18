@@ -22,11 +22,12 @@ body {
     padding-top: 100px; }
   #home-section .card-form {
     opacity: 0.7; }
-  #home-section .fa {
-    color: #008ed6;
-    background: #fff;
-    border-radius: 5px;
-    padding: 4px;
-    font-size: 25px; }
+
+#explore-section .fa {
+  color: #fff;
+  background: #333;
+  border-radius: 5px;
+  padding: 4px;
+  font-size: 25px; }
 
 /*# sourceMappingURL=style.css.map */
