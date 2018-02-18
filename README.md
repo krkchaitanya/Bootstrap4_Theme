@@ -1,16 +1,18 @@
 # ..........Bootstrap 4
 
-Bootstrap 4.0.0-beta with GULP and S
+Bootstrap 4.0.0-beta with GULP and SCSS
 
 
 
 ## .........Get Dependencies
 
 
-```npm install
+```
+npm install
 ```
 
 ## Compile Sass & Run Dev Server
 
-```npm start
+```
+npm start
 ```
