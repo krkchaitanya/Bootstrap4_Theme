@@ -4,7 +4,11 @@ body {
   body .jumbotron {
     min-height: 765px;
     margin-top: 60px;
-    padding-top: 200px; }
+    padding-top: 120px; }
+  body blockquote a {
+    color: grey; }
+  body blockquote a:hover {
+    color: black; }
 
 .navbar {
   border-bottom: #008ed6 3px solid;
@@ -12,7 +16,7 @@ body {
 
 #home-section {
   background: url("../img/home_photo.jpeg");
-  min-height: 700px;
+  min-height: 765px;
   background-size: cover;
   background-attachment: fixed;
   position: relative; }
@@ -22,11 +26,13 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    min-height: 700px; }
+    min-height: 765px; }
   #home-section .home-inner {
     padding-top: 100px; }
   #home-section .card-form {
     opacity: 0.7; }
+  #home-section #form p, #home-section #form h3 {
+    color: grey; }
   #home-section #keyval {
     padding-top: 40px; }
 
